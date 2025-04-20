@@ -21,8 +21,8 @@ unzip ~/Downloads/obsidian-pangu_v1.1.0.zip -d $OBSIDIAN_VAULT_DIR/.obsidian/plu
 ```
 
 TODO
-- [] 转义反引号
-- [] 英文括号
+- [ ] 转义反引号
+- [ ] 英文括号
 
 ### Thanks
 
