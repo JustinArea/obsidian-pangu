@@ -26,5 +26,5 @@ TODO
 
 ### Thanks
 
-感谢原作者 [Natumsol](https://github.com/Natumsol) 和 [Lvhaoyu](https://github.com/Lvhaoyu}。
+感谢原作者 [Natumsol](https://github.com/Natumsol) 和 [Lvhaoyu](https://github.com/Lvhaoyu)。
 Thanks to [pangu.vim](https://github.com/hotoo/pangu.vim), [writing4cn](https://marketplace.visualstudio.com/items?itemName=twocucao.writing4cn) and [pangu-markdown-vscode ](https://github.com/zhuyuanxiang/pangu-markdown-vscode)
